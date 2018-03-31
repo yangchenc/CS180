@@ -94,7 +94,7 @@ final class ChatClient {
      */
     public static void main(String[] args) {
         // Get proper arguments and override defaults
-
+	// Hi
         // Create your client and start it
         ChatClient client = new ChatClient("localhost", 1500, "CS 180 Student");
         client.start();
